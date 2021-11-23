@@ -1,2 +1,2 @@
 # IST_LNW007
-IST Assignment
+## IST - Assignment Network Design
